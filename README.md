@@ -1,5 +1,3 @@
-Claro\! Aqui está um **README** formatado para o seu bot do Discord que busca preços de placas de vídeo.
-
 -----
 
 # 🤖 Aldeia Promo Bot
