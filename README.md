@@ -104,4 +104,3 @@ O *web scraping* pode quebrar se a KaBuM\! alterar a estrutura HTML do seu site 
 
 -----
 
-Posso te ajudar a criar um comando de ajuda (`!help`) para este bot ou talvez integrar outra loja na busca?
